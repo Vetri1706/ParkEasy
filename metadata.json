@@ -1,0 +1,6 @@
+{
+  "name": "Park Easy",
+  "description": "Your smart digital assistant for booking, managing, and predicting parking slots effortlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
